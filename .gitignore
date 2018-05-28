@@ -11,6 +11,7 @@ a.out
 *.a
 .VC.*
 *.nfs.*
+*.*~
 *.plist
 .idea
 node_modules
